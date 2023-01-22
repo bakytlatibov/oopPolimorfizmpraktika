@@ -1,7 +1,7 @@
 public abstract class Hen {
     private int counter;
 
-    public Hen(int counter, int kolichestvo) {
+    public Hen(int counter) {
         this.counter = counter;
     }
 
